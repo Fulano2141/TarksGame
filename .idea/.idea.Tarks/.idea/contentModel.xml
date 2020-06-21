@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Fhulano\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Fhulano\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Tarks.1518898614.00" t="ExcludeRecursive" />
+    <e p="E:\UnityProy\Tarks" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Samples" t="Include">
+          <e p="Terrain Tools" t="Include">
+            <e p="0.1.0-preview" t="Include">
+              <e p="Terrain Assets" t="Include">
+                <e p="ThirdPartyNotices.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CamaraController.cs" t="Include" />
+          <e p="ControlCamPlay.cs" t="Include" />
+          <e p="CuboRespawn.cs" t="Include" />
+          <e p="EjemploSimpleMove.cs" t="Include" />
+          <e p="EnemyGenerate.cs" t="Include" />
+          <e p="FlyCamera.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GameManager1.cs" t="Include" />
+          <e p="MoveCam.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="Movement1.cs" t="Include" />
+          <e p="npc.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="SceneManager.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="Tutorial_Info" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tarks.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
